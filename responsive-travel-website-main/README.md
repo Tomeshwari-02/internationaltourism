@@ -35,11 +35,6 @@ cd internationaltourism
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your homepage and sections here)
-
----
 
 ## 🎯 Purpose of the Project
 
